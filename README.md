@@ -4,9 +4,7 @@ _Padfield et al. (2019) Temperature-dependent changes to host-parasite interacti
 
 DOI of paper:
 
-DOI of preprint:
-
-[doi: 10.1101/554717](https://doi.org/10.1101/554717)
+DOI of preprint: [doi: 10.1101/554717](https://doi.org/10.1101/554717)
 
 DOI of analyses and dataset:
 
@@ -35,6 +33,5 @@ This code is licensed under GPL-3.
 - `growth_curve_functions.R` contains the functions for modelling growth rates.
 - All of the data needed to run the analyses are stored in `data`.
 - All figures produced by the analysis are saved in `plots/` and are labelled as they are in the main text.
-- 
 
 __All analyses are done in R version 3.5.3, on macOS High Sierra 10.13.6. I am unsure whether some older version of R will support all of the packages and whether the analyses will run exactly the same.__
