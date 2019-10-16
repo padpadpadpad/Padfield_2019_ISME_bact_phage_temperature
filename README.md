@@ -6,7 +6,7 @@ DOI of paper:
 
 DOI of preprint: [doi: 10.1101/554717](https://doi.org/10.1101/554717)
 
-DOI of analyses and dataset:
+DOI of analyses and dataset: [![DOI](https://zenodo.org/badge/215580130.svg)](https://zenodo.org/badge/latestdoi/215580130)
 
 
 ### Outline
