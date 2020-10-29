@@ -2,11 +2,13 @@
 
 _Padfield et al. (2019) Temperature-dependent changes to host-parasite interactions alter the thermal performance of a bacterial host. ISME_ 
 
-DOI of paper:
+Link to read paper: https://rdcu.be/b9q88
 
-DOI of preprint: [doi: 10.1101/554717](https://doi.org/10.1101/554717)
+DOI of paper: https://doi.org/10.1038/s41396-019-0526-5
 
-DOI of analyses and dataset: [![DOI](https://zenodo.org/badge/215580130.svg)](https://zenodo.org/badge/latestdoi/215580130)
+DOI of preprint: https://doi.org/10.1101/554717
+
+DOI of analyses and dataset: https://doi.org/10.5281/zenodo.3492192
 
 
 ### Outline
